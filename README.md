@@ -63,8 +63,8 @@ I specialize in converting raw, messy data into meaningful insights and automate
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
-
-## Selected Work
+<!-- For updating your project repos -->
+## Selected Projects
 
 ### Power BI Sales Dashboard
 
@@ -81,7 +81,10 @@ Exploratory and statistical analysis of Tesla sales data — covering revenue tr
 `Python` `pandas` `Matplotlib` `Jupyter` &nbsp; [View Repo](https://github.com/Elvisamaray/Tesla-Sales-Analysis-)
 
 ---
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Elvisamaray&repo=Powerbi-sales-dashboard&theme=github_dark&hide_border=true)](https://github.com/Elvisamaray/Powerbi-sales-dashboard)
 
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Elvisamaray&repo=Tesla-Sales-Analysis-&theme=github_dark&hide_border=true)](https://github.com/Elvisamaray/Tesla-Sales-Analysis-)
+---
 ## GitHub Stats
 
 <div align="center">
