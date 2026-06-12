@@ -67,23 +67,6 @@ I turn messy data into decisions. My work sits at the intersection of statistica
 ## Selected Work
 
 
-### Demand Forecasting Pipeline
-<img src="assets/demand-forecast-preview.png" width="600" alt="Demand Forecast Dashboard Preview" />
-
-End-to-end forecasting system using SARIMA and XGBoost on 3 years of retail transaction data. Reduced overstock costs by 18% in simulation. Includes automated retraining and a Plotly dashboard.
-
-`Python` `XGBoost` `SARIMA` `Plotly` `Airflow` &nbsp; [View Repo](#)
-
----
-
-### Customer Segmentation Analysis
-<img src="assets/segmentation-preview.png" width="600" alt="Customer Segmentation Tableau Dashboard" />
-
-RFM + K-Means clustering on e-commerce data to identify high-value customer cohorts. Delivered as an interactive Tableau workbook with executive summary.
-
-`Python` `K-Means` `Tableau` `pandas` &nbsp; [View Repo](#)
-
----
 
 ### Churn Prediction Model
 
