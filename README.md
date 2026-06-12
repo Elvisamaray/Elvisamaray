@@ -1,7 +1,8 @@
 <div align="center">
 
+  <!-- PROFILE BANNER IMAGE -->
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=200&section=header&text=Samuel%20Okonkwo&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst&descAlignY=58&descSize=18&descColor=8b949e" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=200&section=header&text=Elvis%20Amaray%20Amaraegbu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst&descAlignY=58&descSize=18&descColor=8b949e" width="100%" />
 
 </div>
 
