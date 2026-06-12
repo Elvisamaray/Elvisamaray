@@ -4,8 +4,6 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=200&section=header&text=Elvis%20Amaray%20Amaraegbu&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst&descAlignY=58&descSize=18&descColor=8b949e" width="100%" />
 
-  ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=elvisamaray.visitor_badge&right_color=2088FF&color=0d1117)
-
 
 </div>
 
