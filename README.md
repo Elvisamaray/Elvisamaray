@@ -20,6 +20,7 @@
 ---
 
 I specialize in converting raw, messy data into meaningful insights and automated solutions that improve business performance. I enjoy building analytical models, creating interactive dashboards, optimizing workflows, and solving real-world problems with data.
+
 ---
 
 ## Languages & Query
@@ -40,6 +41,7 @@ I specialize in converting raw, messy data into meaningful insights and automate
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -65,13 +67,19 @@ I specialize in converting raw, messy data into meaningful insights and automate
 
 ## Selected Work
 
+### Power BI Sales Dashboard
 
+An interactive Power BI dashboard tracking key sales KPIs across regions, product categories, and time periods. Built to surface trends and support faster commercial decision-making.
 
-### Churn Prediction Model
+`Power BI` `Data Modeling` `DAX` &nbsp; [View Repo](https://github.com/Elvisamaray/Powerbi-sales-dashboard)
 
-Logistic regression and gradient boosting ensemble for a SaaS dataset. AUC of 0.87. Full writeup covers feature engineering decisions, threshold calibration, and business framing.
+---
 
-`Python` `scikit-learn` `XGBoost` `Jupyter` &nbsp; [View Repo](#)
+### Tesla Sales Analysis
+
+Exploratory and statistical analysis of Tesla sales data — covering revenue trends, model performance, and market patterns. Delivered as a structured notebook with visualizations.
+
+`Python` `pandas` `Matplotlib` `Jupyter` &nbsp; [View Repo](https://github.com/Elvisamaray/Tesla-Sales-Analysis-)
 
 ---
 
@@ -89,14 +97,6 @@ Logistic regression and gradient boosting ensemble for a SaaS dataset. AUC of 0.
   ![GitHub Streak](https://streak-stats.demolab.com?user=Elvisamaray&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 </div>
-
----
-
-## Currently Exploring
-
-![Causal Inference](https://img.shields.io/badge/Causal%20Inference-learning-blue?style=flat-square)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![LLM Evals](https://img.shields.io/badge/LLM%20Evals%20for%20Data-exploring-8A2BE2?style=flat-square)
 
 ---
 
