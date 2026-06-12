@@ -19,8 +19,7 @@
 
 ---
 
-I turn messy data into decisions. My work sits at the intersection of statistical modeling, business intelligence, and automation — with a bias toward reproducible pipelines and results that non-technical stakeholders can actually use.
-
+I specialize in converting raw, messy data into meaningful insights and automated solutions that improve business performance. I enjoy building analytical models, creating interactive dashboards, optimizing workflows, and solving real-world problems with data.
 ---
 
 ## Languages & Query
